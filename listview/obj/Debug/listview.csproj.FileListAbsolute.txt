@@ -8,3 +8,13 @@ C:\Users\aaa\Desktop\listview\listview\obj\Debug\listview.csproj.GenerateResourc
 C:\Users\aaa\Desktop\listview\listview\obj\Debug\listview.csproj.CoreCompileInputs.cache
 C:\Users\aaa\Desktop\listview\listview\obj\Debug\listview.exe
 C:\Users\aaa\Desktop\listview\listview\obj\Debug\listview.pdb
+C:\Users\aaa\Desktop\ListView-CSharp\listview\bin\Debug\listview.exe.config
+C:\Users\aaa\Desktop\ListView-CSharp\listview\bin\Debug\listview.exe
+C:\Users\aaa\Desktop\ListView-CSharp\listview\bin\Debug\listview.pdb
+C:\Users\aaa\Desktop\ListView-CSharp\listview\obj\Debug\listview.csprojAssemblyReference.cache
+C:\Users\aaa\Desktop\ListView-CSharp\listview\obj\Debug\listview.Form1.resources
+C:\Users\aaa\Desktop\ListView-CSharp\listview\obj\Debug\listview.Properties.Resources.resources
+C:\Users\aaa\Desktop\ListView-CSharp\listview\obj\Debug\listview.csproj.GenerateResource.cache
+C:\Users\aaa\Desktop\ListView-CSharp\listview\obj\Debug\listview.csproj.CoreCompileInputs.cache
+C:\Users\aaa\Desktop\ListView-CSharp\listview\obj\Debug\listview.exe
+C:\Users\aaa\Desktop\ListView-CSharp\listview\obj\Debug\listview.pdb

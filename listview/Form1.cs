@@ -19,7 +19,6 @@ namespace listview
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int index = 4;
             int i = 0;
             listView1.BeginUpdate();
             ListViewItem item;
@@ -39,7 +38,7 @@ namespace listview
                 }
                 i++;
             }
-            listView1.Columns[index].Width = -2;
+            listView1.Columns[4].Width = -2;
             listView1.EndUpdate();
         }
 
