@@ -38,7 +38,13 @@ namespace listview
                 }
                 i++;
             }
-            listView1.Columns[4].Width = -2;
+            listView1.Columns.Add("칼럼 1");
+            listView1.Columns.Add("칼럼 2");
+            listView1.Columns.Add("칼럼 3");
+            listView1.Columns.Add("칼럼 4");
+            listView1.Columns.Add("칼럼 5");
+            listView1.View = View.Details;
+            listView1.Columns[4].Width = 30;
             listView1.EndUpdate();
         }
 
